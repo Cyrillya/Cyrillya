@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="left">
+Hi, Cyril here 👋
+  <img align="right" src="https://komarev.com/ghpvc/?username=Cyrillya&style=for-the-badge" />
+  <a href="https://discord.gg/rEmGMQv5z7"><img align="right" src="https://img.shields.io/discord/957095111332864040?label=Discord&style=for-the-badge" /></a>
+</h1>
+I am a Terraria modder who has made a lot of Quality of Life mods
 
-<!--
-**Cyrillya/Cyrillya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+I actively work on several projects, including, but not limited to:
+- **Mods**
+  - [**Dialogue Panel Rework**](https://github.com/Cyrillya/DialogueTweak), re-designs the dialogue panel for NPCs.
+  - [**Autofish**](https://github.com/Cyrillya/Autofish), AFK fishing mod.
+  - [**Quality of Life**](https://github.com/487666123/ImproveGame), a huge quality of life mod that includes a bunch of useful functions.
+- **Libraries**
+  - [**Net Simplified**](https://github.com/Cyrillya/NetSimplified-tModLoader), a simple network library for easily handling mod packets for tModLoader
 
-Here are some ideas to get you started:
+## Contribution
+I have made serveral contributions for [**tModLoader**](https://github.com/tModLoader/tModLoader)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Stats
+<div align="center">
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Cyrillya&show_icons=true&theme=tokyonight&hide_border=true" alt="Cyrillya" />
+  <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Cyrillya&hide_border=true&theme=tokyonight" alt="Cyrillya" />
+</div>
